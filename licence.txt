@@ -1,5 +1,5 @@
 {
-  "version":"Latest Version: 1.2",
+  "version":"Version: 1.6",
   "DESKTOP-C09IPQV_Sabbir Ahmed": "SABBIR-AHMED-0000-0001",
   "SHAPORANSHUVO_FS it": "SABBIR-AHMED-0000-0002",
   "LENOVO_dibye": "SABBIR-AHMED-0000-0003",
